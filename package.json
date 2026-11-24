@@ -1,0 +1,1 @@
+{"description":"One-liner entry for make.fun One-Liner Marathon: an AI agent reviews its own code and promotes itself.","license":"MIT","main":"main.ts","name":"frost-marathon-one-liner","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
